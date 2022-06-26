@@ -1,49 +1,92 @@
 # Arindomsaha
-My first project 
+🙂My first project✍️🙏 
+
+
+♤INSTALLING¤PROGRAM ♡
 
 
 
-(.py) install program- python,python2,python3
-
-
-
-
-(.sh) install program- bash
-
-
-
-
-
-(.txt)/(.md) red process- cat
+☆(.py) install program-
+python  , python2  , python3 
 
 
 
 
-Installing....
+
+☆(.sh) install program-
+bash
 
 
 
 
-pkg update -y
+
+☆(.txt)  / (.md) red process-
+cat
 
 
-pkg upgrade -y
 
 
-pkg install python 
+☆● Termux Installing Process ....
 
 
-pkg install python2
 
 
-pkg install python3
-
-pkg install git 
-
-git clone https://github.com/Jisusaha7431/Arindomsaha
+1) pkg update -y
 
 
-RUN &&&
+2) pkg upgrade -y
+
+
+3) pkg install python 
+
+
+4) pkg install python2
+
+
+5) pkg install python3
+
+
+6) pkg install git 
+
+
+7) git clone https://github.com/Jisusaha7431/Arindomsaha
+
+
+
+
+ ■》RUN PROCESS.. &&&
+ 
+ 
+ 1] ls
+
+ 
+ 
+ 2] cd Arindomsaha
+ 
+ 
+ 3] ls
+ 
+ 
+ 👆👆♤INSTALLING¤PROGRAM ♡
+ 
+ 
+ 
+ ☆(.py) install program-
+python  , python2  , python3 
+
+
+
+
+
+☆(.sh) install program-
+bash
+
+
+
+
+
+☆(.txt)  / (.md) red process-
+cat
 
 
 
