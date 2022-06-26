@@ -72,21 +72,21 @@ cat
  
  
  ☆(.py) install program-
-(python/  , python2/  , python3) (folder name)
+(python/  , python2/  , python3)      (folder name)
 
 
 
 
 
 ☆(.sh) install program-
-bash (folder name)
+bash     (folder name)
 
 
 
 
 
 ☆(.txt)  / (.md) red process-
-cat (folder name)
+cat      (folder name)
 
 
 
