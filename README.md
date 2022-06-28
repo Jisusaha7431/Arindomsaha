@@ -65,7 +65,12 @@ cat
  
  
  3] ls
- 
+
+
+
+✓chmod +x* (folder name)
+
+
  
  👆👆♤INSTALLING¤PROGRAM ♡
  
