@@ -1,5 +1,5 @@
-imaort subprocess 
-imaort pyfiglet 
+import subprocess 
+import pyfiglet 
 
 text-pyfiglet.figlet_format("Arindom ping")
 print(text)
